@@ -1,0 +1,29 @@
+{
+    "receitas":{
+        "data":[{
+            "id": "1",
+            "nome":"Bolo de cenoura",
+            "tipo":"Doce",
+            "rende":"8 porções"
+        },
+        {
+            "id":"2",
+            "nome":"Torta de frango",
+            "tipo":"Salgado",
+            "rende":"20 porções"
+        },
+        {
+            "id":"3",
+            "nome":"Carolina",
+            "tipo":"Doce",
+            "rende":"40 porções"
+        },
+        {
+            "id":"4",
+            "nome":"Pão",
+            "tipo":"Neutro",
+            "rende":"12 pães"
+        }
+        ]
+    }
+}

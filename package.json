@@ -1,0 +1,21 @@
+{
+  "name": "atividade_dia_06_11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon api/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "dependencies": {
+    "config": "^3.3.2",
+    "consign": "^0.1.6",
+    "express": "^4.17.1",
+    "uuid": "^3.3.3"
+  }
+}
